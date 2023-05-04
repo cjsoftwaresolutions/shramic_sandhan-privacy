@@ -9,7 +9,8 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 ### Information Collection and Use  
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, mic, pictures. The information that we request will be retained by us and used as described in this privacy policy.
-we may collect street, city, district, state, pincode. this information used to create your profile on the app.
+
+We may collect street, city, district, state, pincode. this information used to create your profile on the app.
 
 ### Cookies  
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
